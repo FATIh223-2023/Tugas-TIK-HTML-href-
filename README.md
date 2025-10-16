@@ -27,6 +27,8 @@ ______________________________________________________
 dengan mengganti list nama 1-3 dengan nama orang(serah.... mau pak gibran juga bisa)
 
 5.simpan semua file
+
 6.buka main.html di browser kalian
+
 7.selesai
 ______________________________________________________________________________________
