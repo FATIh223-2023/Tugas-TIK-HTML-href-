@@ -2,12 +2,15 @@
 Tugas TIK. isinya edit sendiri....
 
 cara menggunakan:
+
 1.buka main, kontak, dan galeri.html di editor kode kalian
+
 2.edit bagian main.html di:
 _______________________________________________________________
     <h1>isi text disini</h1><!header>
     <p>isi text disini.</p><!paragraf>
 _______________________________________________________________
+
 3.edit bagian galeri.html di:
 _______________________________________________________________
         <img src="judul foto.jpg" alt="judul foto">
@@ -15,6 +18,7 @@ _______________________________________________________________
         <img src="judul foto.jpg" alt="judul foto">
 _______________________________________________________________
   dengan foto yang kalian punya, dan copy-paste foto tersebut ke folder yang sama dengan file html
+  
 4.edit bagian kontak.html di:
 _______________________________________________________________
         <ul>
